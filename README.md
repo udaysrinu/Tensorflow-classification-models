@@ -1,2 +1,2 @@
 # Tensorflow-classification-models
-classification models built to experiment on
+Binary and multi class classification models of horse vs humans,cats vs dogs,various hand signs and handwritings built with keras,with and without techniques like Data augmentations,dropout regularisation,transfer learning using Inception V3,with optimizers such as RMS Prop and adam,with data sets from kaggle challenges and Mnist data sets using tensorflow library
